@@ -6,9 +6,11 @@
 
 - kidney: changed references to path
 
-## Unreleased
+## [1.0.1] - 2026-03-09
 
 ### Changed
 
 - test
 - kidney: changed references to git
+
+[1.0.1]: https://github.com/ggsuite/testproject_gg_3/tag/%tag
