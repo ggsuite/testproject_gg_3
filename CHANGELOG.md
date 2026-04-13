@@ -6,6 +6,12 @@
 
 - kidney: changed references to path
 
+## [Unreleased]
+
+### Changed
+
+- commit
+
 ## [1.1.2] - 2026-03-23
 
 ## [1.1.1] - 2026-03-23
@@ -33,6 +39,7 @@
 - test
 - kidney: changed references to git
 
+[Unreleased]: https://github.com/ggsuite/testproject_gg_3/compare/1.1.2...HEAD
 [1.1.2]: https://github.com/ggsuite/testproject_gg_3/compare/1.1.1...1.1.2
 [1.1.1]: https://github.com/ggsuite/testproject_gg_3/compare/1.1.0...1.1.1
 [1.1.0]: https://github.com/ggsuite/testproject_gg_3/compare/1.0.6...1.1.0
