@@ -6,6 +6,8 @@
 
 - kidney: changed references to path
 
+## [1.1.5] - 2026-06-03
+
 ## [1.1.4] - 2026-04-24
 
 ## [1.1.3] - 2026-04-13
@@ -41,6 +43,7 @@
 - test
 - kidney: changed references to git
 
+[1.1.5]: https://github.com/ggsuite/testproject_gg_3/compare/1.1.4...1.1.5
 [1.1.4]: https://github.com/ggsuite/testproject_gg_3/compare/1.1.3...1.1.4
 [1.1.3]: https://github.com/ggsuite/testproject_gg_3/compare/1.1.2...1.1.3
 [1.1.2]: https://github.com/ggsuite/testproject_gg_3/compare/1.1.1...1.1.2
