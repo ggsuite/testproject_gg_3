@@ -6,6 +6,12 @@
 
 - kidney: changed references to path
 
+## [1.2.0] - 2026-06-07
+
+### Changed
+
+- E2E gg\_one publish --config: touch README
+
 ## [1.1.6] - 2026-06-07
 
 ### Changed
@@ -49,6 +55,7 @@
 - test
 - kidney: changed references to git
 
+[1.2.0]: https://github.com/ggsuite/testproject_gg_3/compare/1.1.6...1.2.0
 [1.1.6]: https://github.com/ggsuite/testproject_gg_3/compare/1.1.5...1.1.6
 [1.1.5]: https://github.com/ggsuite/testproject_gg_3/compare/1.1.4...1.1.5
 [1.1.4]: https://github.com/ggsuite/testproject_gg_3/compare/1.1.3...1.1.4
