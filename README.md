@@ -10,3 +10,5 @@ test2026-06-07T17:42:44+02:00 — touched by e2e publish test
 Added by gg_one E2E publish --config test on 2026-06-07T20:34:58+02:00.
 
 <!-- e2e-pubdev-dart 2026-06-08 16:26 -->
+
+<!-- testproject_gg_e2e: gg_typescript_bugfixes E2E -->
