@@ -5,6 +5,9 @@
 ### Changed
 
 - kidney: changed references to path
+- e2e: trigger a publishable change for operator-preservation test
+
+## [1.2.3] - 2026-06-26
 
 ## [1.2.2] - 2026-06-09
 
@@ -67,6 +70,7 @@
 - test
 - kidney: changed references to git
 
+[1.2.3]: https://github.com/ggsuite/testproject_gg_3/compare/1.2.2...1.2.3
 [1.2.2]: https://github.com/ggsuite/testproject_gg_3/compare/1.2.1...1.2.2
 [1.2.1]: https://github.com/ggsuite/testproject_gg_3/compare/1.2.0...1.2.1
 [1.2.0]: https://github.com/ggsuite/testproject_gg_3/compare/1.1.6...1.2.0
