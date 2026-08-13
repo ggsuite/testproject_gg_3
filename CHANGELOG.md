@@ -8,6 +8,10 @@
 - e2e: trigger a publishable change for operator-preservation test
 - Rework copyright headers
 
+### Fixed
+
+- Cleanup copy right headers. Update to dart 3.13. Auto fixes.
+
 ## 1.2.4 - 2026-07-20
 
 ### Changed
