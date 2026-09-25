@@ -1,5 +1,11 @@
 # Changelog
 
+## Unreleased
+
+### Added
+
+- Add a repro line to the README
+
 ## 1.4.0 - 2026-09-03
 
 ### Added
