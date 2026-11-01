@@ -1,5 +1,11 @@
 # Changelog
 
+## Unreleased
+
+### Changed
+
+- Live test of the breaking release flow
+
 ## 1.4.0 - 2026-09-03
 
 ### Added
